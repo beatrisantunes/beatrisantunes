@@ -1,5 +1,8 @@
-### Hey! Meu nome é Beatris Antunes
-<center>![github banner](https://user-images.githubusercontent.com/79115923/183532681-af0b616f-286e-4d3c-a4aa-d70f2578b6dc.png)</center>
+### 👋 Hey! Meu nome é Beatris Antunes 🤓 
+
+##
+
+ ![github banner](https://user-images.githubusercontent.com/79115923/183551432-409365e5-9f73-432c-8834-e0c4beb83dcb.png)
 
 ##
 
