@@ -6,7 +6,7 @@
 
 - 📗 Participo do Programa da Alura + Oracle "One Oracle Next Education"
 
-- 👩‍💻Atualmente participo do Bootcamp Linux Experience da Digital Innovation One Inc.
+- 👩‍💻Atualmente participo do Bootcamp "Linux Experience" da Digital Innovation One Inc.
 
 - 🎮 Sou noob, mas adoro jogar 
 
