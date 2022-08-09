@@ -1,5 +1,15 @@
 ### <center>![github banner](https://user-images.githubusercontent.com/79115923/183532681-af0b616f-286e-4d3c-a4aa-d70f2578b6dc.png)</center>
 
+- 🧑‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+
+- 📚 Atualmente estou estudando linguagens de front-end
+
+- 📗 Participo do Programa da Alura + Oracle "One Oracle Next Education"
+
+- 📗Atualmente participo do Bootcamp Linux Experience da Digital Innovation One Inc.
+
+- 🎮 Sou noob, mas adoro jogar 
+
   <a href="https://github.com/beatrisantunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrisantunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisantunes&layout=compact&langs_count=7&theme=tokyonight"/>
