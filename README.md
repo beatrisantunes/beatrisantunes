@@ -14,6 +14,8 @@
 
 - 💡 Embaixadora na Campus Expert da Digital Innovation One Inc.
 
+- 📗 Estudando bootcamp "From Zero to Hero" da Be Academy
+
 - 🎮 Sou noob, mas adoro jogar 
 
 - 🎶 Adoro rock e pop
