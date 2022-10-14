@@ -24,7 +24,7 @@
 
 <p>
     <a href="https://github.com/developernaimul/github-readme-streak-stats">
-        <img height="250em title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrisantunes&theme=tokyonight"/>
+        <img height="165em title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrisantunes&theme=tokyonight"/>
     </a>
 </p>
   <a href="https://github.com/beatrisantunes">
@@ -32,7 +32,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisantunes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<a href="https://github.com/beatrisantunes/github-readme-activity-graph"><img height="290em" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=beatrisantunes&theme=tokyo-night" /></a>
+<a href="https://github.com/beatrisantunes/github-readme-activity-graph"><img height="250em" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=beatrisantunes&theme=tokyo-night" /></a>
+
 
 ##
 
