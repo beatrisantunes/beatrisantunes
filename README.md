@@ -1,6 +1,4 @@
-### 👋 Hey! Meu nome é Beatris Antunes 🤓 
-
-##
+<h1 align="center">👋 Hey! Meu nome é Beatris Antunes  </h1>
 
 ![Banner](https://user-images.githubusercontent.com/79115923/195885235-2129612f-e2b2-468a-9979-895344a11f5e.svg)
 
@@ -15,7 +13,7 @@
 
 - 💡 Embaixadora na Campus Expert da Digital Innovation One Inc.
 
-- 📗 Estudando bootcamp "From Zero to Hero" da Be Academy
+- 👩🏻‍💻 Estudando bootcamp "From Zero to Hero" da Be Academy
 
 - 🎮 Sou noob, mas adoro jogar 
 
