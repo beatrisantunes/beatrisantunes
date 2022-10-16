@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! Meu nome é Beatris </h1>
+<h1 align="center">👋 Hello, World! Meu nome é Beatris </h1>
 
 ![Banner](https://user-images.githubusercontent.com/79115923/195885235-2129612f-e2b2-468a-9979-895344a11f5e.svg)
 
