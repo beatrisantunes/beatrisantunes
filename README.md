@@ -31,7 +31,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisantunes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<a href="https://github.com/beatrisantunes/github-readme-activity-graph"><img height="250em" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=beatrisantunes&theme=tokyo-night" /></a>
+<a href="https://github.com/beatrisantunes/github-readme-activity-graph"><img height="250em" alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=beatrisantunes&layout=compact&langs_count=7&theme=tokyo-night" /></a>
 
 
 ##
