@@ -44,9 +44,10 @@
         
   ## 
  <div style-"display:inline_block"><br>
-   <img align="center" alt="Badge-2" height="100" width="100" src="https://i.imgur.com/7HyeKR2.png"/>
+   <img align="center" alt="Badge-1" height="100" width="100" src="https://i.imgur.com/7HyeKR2.png"/>
    <img align="center" alt="Badge-2" height="100" width="100" src="https://i.imgur.com/3wADUjD.png"/>
-   <img align="center" alt="Badge-2" height="100" width="100" src="https://i.imgur.com/CC7660l.png"/>
+   <img align="center" alt="Badge-3" height="100" width="100" src="https://i.imgur.com/CC7660l.png"/>
+   <img align="center" alt="Badge-4" height="100" width="100" src="https://i.imgur.com/lcL9KM2.png"/>
   </div>
   
  ## 
