@@ -1,6 +1,6 @@
-<h1 align="center">👋🏻 Hello, World! Meu nome é Beatris </h1>
+<h1 align="center">👋🏻 Hello, World! I'm Beatris </h1>
 
-![Banner](https://user-images.githubusercontent.com/79115923/195885235-2129612f-e2b2-468a-9979-895344a11f5e.svg)
+<img align="center" alt="beatris-banner" src="https://i.imgur.com/yjOOySH.png">
 
 
 <h2 align="left">🙋🏻‍♀️About me </h2> <img align="right" alt="beatris-avatar" height="400" width="400" src="https://i.imgur.com/s3TTsOr.png">
