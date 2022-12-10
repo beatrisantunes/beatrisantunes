@@ -3,7 +3,7 @@
 ![Banner](https://user-images.githubusercontent.com/79115923/195885235-2129612f-e2b2-468a-9979-895344a11f5e.svg)
 
 
-## 🙋🏻‍♀️About me
+## 🙋🏻‍♀️About me <img align="right" alt="beatris-avatar" height="500" width="500" src="https://i.imgur.com/s3TTsOr.png">
 
 - 🧑‍🎓Graduating associate degree of Systems Analysis and Development
 
