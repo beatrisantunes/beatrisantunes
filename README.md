@@ -6,11 +6,11 @@
 <h2 align="left">🙋🏻‍♀️About me </h2> <img align="right" alt="beatris-avatar" height="400" width="400" src="https://i.imgur.com/s3TTsOr.png">
 <div style-"display:inline_block"><br>
 
-- 🧑‍🎓Graduating associate degree of Systems Analysis and Development
+- 👩🏻‍🎓Graduating associate degree of Systems Analysis and Development
 
 - 📚 Currently studying front-end languages
 
-- 📗 Student at the programa from Alura + Oracle "One Oracle Next Education"
+- 📗 Student at "One Oracle Next Education"
 
 - 💡Ambassador of Campus Expert from Digital Innovation One Inc.
 
