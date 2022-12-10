@@ -23,12 +23,7 @@
 
 ## 📈Github Stats
 <div style-"display:inline_block"><br>
-<p>
-    <a href="https://github.com/beatrisantunes/github-readme-streak-stats">
-        <img height="165em title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrisantunes&theme=tokyonight"/>
-    </a>
-</p>
-                                                                                                                   
+<p>                                                                                                               
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=beatrisantunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrisantunes&layout=compact&langs_count=7&theme=tokyonight"/>
     
