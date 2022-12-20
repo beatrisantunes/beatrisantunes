@@ -45,7 +45,8 @@
    <img align="center" alt="Badge-2" height="100" width="100" src="https://i.imgur.com/3wADUjD.png"/>
    <img align="center" alt="Badge-3" height="100" width="100" src="https://i.imgur.com/CC7660l.png"/>
    <img align="center" alt="Badge-4" height="100" width="100" src="https://i.imgur.com/lcL9KM2.png"/>
-   <img align="center" alt="Badge-5" height="100" width="100" src="https://i.imgur.com/6cJOJm9.png"/>  
+   <img align="center" alt="Badge-5" height="100" width="100" src="https://i.imgur.com/6cJOJm9.png"/> 
+   <img align="center" alt="Badge-5" height="100" width="100" src="https://i.imgur.com/w6P6ME3.png"/>
   </div>
   
  <h2 align="left"> 📞Contact </h2>
