@@ -10,11 +10,7 @@
 
 - 📚 Currently studying front-end languages
 
-- 📗 Student at "One Oracle Next Education"
-
 - 💡Ambassador of Campus Expert from Digital Innovation One Inc.
-
-- 👩🏻‍💻 Studying bootcamp "From Zero to Hero" from Be Academy
 
 - 🎮 I like videogames, but don't really know how to play
 
