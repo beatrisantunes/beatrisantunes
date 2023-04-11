@@ -34,7 +34,7 @@
           <img align="center" alt="beatris-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
           <img align="center" alt="beatris-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
           <img align="center" alt="beatris-Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-          <img align="center" alt="beatris-MySQL" height="50" width="50" src="https://i.imgur.com/ZaJ1nUZ.png"/>
+          <img align="center" alt="beatris-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    </div>
         
         
