@@ -10,6 +10,8 @@
 
 - 📚 Currently studying front-end languages
 
+- 👩‍💻 Currently working as a Low Code Technician at Central IT
+
 - 💡Ambassador of Campus Expert from Digital Innovation One Inc.
 
 - 🎮 I like videogames, but don't really know how to play
