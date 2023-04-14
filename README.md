@@ -6,9 +6,9 @@
 <h2>🙋🏻‍♀️About me </h2>
 <div style-"display:inline_block"><br>
 
-- 👩🏻‍🎓Graduating associate degree of Systems Analysis and Development
+- 👩🏻‍🎓Graduating Bachelor of Technology in Systems Analysis and Development
 
-- 👩‍💻 Currently working as a Low Code Technician at Central IT
+- 👩🏻‍💻 Currently working as a Low Code Technician at Central IT
 
 - 💡Ambassador of Campus Expert from Digital Innovation One Inc.
 
