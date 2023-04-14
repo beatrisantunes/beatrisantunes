@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻 Hello, World! I'm Beatris </h1>
 
-<img align="center" height="500em" alt="beatris-banner" src="https://i.imgur.com/yjOOySH.png">
+<img align="center" alt="beatris-banner" src="https://i.imgur.com/yjOOySH.png">
 
 
 <h2>🙋🏻‍♀️About me </h2>
