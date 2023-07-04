@@ -8,7 +8,7 @@
 
 - 👩🏻‍🎓Graduating Bachelor of Technology in Systems Analysis and Development
 
-- 👩🏻‍💻 Currently working as a Low Code Technician at Central IT
+- 👩🏻‍💻 Currently studying front-end skills
 
 - 💡Ambassador of Campus Expert from Digital Innovation One Inc.
 
