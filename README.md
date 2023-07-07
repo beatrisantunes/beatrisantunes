@@ -6,7 +6,7 @@
 <h2>🙋🏻‍♀️About me </h2>
 <div style-"display:inline_block"><br>
 
-- 👩🏻‍🎓Graduating Bachelor of Technology in Systems Analysis and Development
+- 👩🏻‍🎓Graduating Bachelor of Information Technology
 
 - 👩🏻‍💻 Currently studying front-end skills
 
